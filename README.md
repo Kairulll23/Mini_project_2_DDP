@@ -7,4 +7,4 @@ Kelas  : Sistem Informasi C'25
 
 
 # Output Menu
-<bold>Login</bold>
+Login
