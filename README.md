@@ -37,8 +37,16 @@ Manager bisa menambahkan nama karyawan dan jabatan dari karyawan tersebut
 <img width="501" height="175" alt="image" src="https://github.com/user-attachments/assets/f814f178-4c84-4e7f-b5b1-4d9855cba191" /><br>
 Manager bisa mengubah nama atau jabatan karyawan yang ingin di ubah
 
-#
+# Pilihan 4 (Hapus Karyawan)
+<img width="534" height="287" alt="image" src="https://github.com/user-attachments/assets/0aa3bf2b-60d4-460c-a19e-d630c1858a6a" /><br>
+Manager bisa menghapus karyawan dengan memasukkan sesuai dengan nomor karyawan tersebut.
 
+# Pilihan 5 (Keluar)
+<img width="561" height="203" alt="image" src="https://github.com/user-attachments/assets/771c65fb-0445-4d04-bd09-ef0f57724ffa" /><br>
+Pilihan ini untuk memberhentikan program
 
+# Kekurangan dari program
+Karyawan tidak bisa melihat data yang telah di tambahkan manager dikarenakan tidak ada sistem logout
 
+# Mohon Maaf Bang
 
