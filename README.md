@@ -4,7 +4,7 @@ NIM    : 2509116097<br>
 Kelas  : Sistem Informasi C'25
 
 # Flowchart
-<img width="1261" height="752" alt="image" src="https://github.com/user-attachments/assets/14c055fc-7c82-4f0e-aee9-c0cfbce70025" />
+<img width="1226" height="749" alt="image" src="https://github.com/user-attachments/assets/16c57e6e-8aba-4ff6-a003-0a9051e50d80" />
 
 
 # Output Menu
